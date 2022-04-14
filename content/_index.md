@@ -10,9 +10,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
--Aprende Git y GitHub
--Aprender sobre el diseño de backend
--Integrar todos los conocimientos en beneficio de la comunidad
--Compartir diversas experiencias con otras y otros explorers
+- Aprende Git y GitHub
+- Aprender sobre el diseño de backend
+- Integrar todos los conocimientos en beneficio de la comunidad
+- Compartir diversas experiencias con otras y otros explorers
 
 🚀
