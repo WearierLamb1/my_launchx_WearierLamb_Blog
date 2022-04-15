@@ -13,7 +13,8 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 > Es un don
 > Se usa en bien de la sociedad humanidad.
 
-¡Hola a todas y todos! yo soy **Arón Miguel Hernández Martínez**, soy de la Ciudad México, tengo 23 años casi 24 y esto es un poco de mi
+¡Hola a todas y todos! yo soy **Arón Miguel Hernández Martínez**, soy de la Ciudad México, tengo 23 años casi 24 y esto es un poco de mi.
+
 Estudie Relaciones Internacionales con preespecialización en Negocios Internacionales en la UNAM- FES Aragón,
 aunque los negocios siempore me llamaron la atención, a partir de mi 7mo semestre me di cuenta que mi pasión por la tecnología era mayor.
 A partir del 2019 comencé a adentrarme poco a poco por el mundo de la tecnología y su conexión la sociedad, de hecho realicé una tesis
